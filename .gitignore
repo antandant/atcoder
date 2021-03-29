@@ -5,6 +5,6 @@ honban/
 .python-version
 __pycache__
 .vscode
-virtual-con/
+playground/
 tester/
 past
